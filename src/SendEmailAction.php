@@ -2,7 +2,7 @@
 
 namespace Avn\Symfony\Email;
 
-use App\Application\Actions\Email\DTO\SendEmailRequest;
+use Avn\Symfony\Email\DTO\SendEmailRequestInterface;
 use Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface;
 use Symfony\Component\Mailer\MailerInterface;
 use Symfony\Component\Mime\Email;

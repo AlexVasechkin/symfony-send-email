@@ -16,7 +16,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Avn\\Symfony\\Actions\\Email": "src"
+            "Avn\\Symfony\\Actions\\Email\\": "src"
         }
     }
 }

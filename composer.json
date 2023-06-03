@@ -1,7 +1,7 @@
 {
     "name": "avn/symfony-send-email",
     "type": "library",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "require": {
         "php": "^7.4",
         "symfony/mailer": "^5.4",
